@@ -1,0 +1,7 @@
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\obj\Debug\FInal NEA.csproj.AssemblyReference.cache
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\obj\Debug\FInal NEA.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\bin\Debug\FInal NEA.exe.config
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\bin\Debug\FInal NEA.exe
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\bin\Debug\FInal NEA.pdb
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\obj\Debug\FInal NEA.exe
+C:\Users\Joshua\OneDrive\Documents\A level work\Comp sci A level\NEA\FInal NEA\obj\Debug\FInal NEA.pdb
